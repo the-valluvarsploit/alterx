@@ -246,4 +246,5 @@ payloads:
     - "status"
     - "help"
     - "survey"
+    - "events"
     
