@@ -166,7 +166,7 @@ payloads:
     - "2021"
     - "2020"
 
-takeover:
+  takeover:
     - "github"
     - "aws"
     - "beanstalk"
@@ -238,7 +238,7 @@ takeover:
     - "worksites"
     - "zendesk"
     
-custom:
+  custom:
     - "m"
     - "uat"
     - "nonprod"
