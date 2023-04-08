@@ -228,16 +228,16 @@ takeover:
     - "tilda"
     - "tumblr"
     - "uberflip"
+    - "unbounce"
+    - "uptimerobot"
+    - "uservoice"
+    - "vercel"
+    - "wpengine"
+    - "webflow"
+    - "wix"
+    - "worksites"
+    - "zendesk"
     
-    
-    
-    
-    
-    
-    
-    
-    
-
 custom:
     - "m"
     - "uat"
