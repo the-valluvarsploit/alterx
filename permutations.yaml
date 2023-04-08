@@ -131,6 +131,11 @@ payloads:
     - "www2"
     - "netlify"
     - "storage"
+    - "m"
+    - "uat"
+    - "nonprod"
+    - "sandbox"
+    - "status"
 
   region:
     - "us-east-1"
